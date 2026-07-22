@@ -1,4 +1,7 @@
 # DataScience-Week1
+Team Members:
+1. Tanya Arya
+2. Vaibhav Magar
 
 Week 1 assignment covering core Python programming and data analysis with Pandas.
 
